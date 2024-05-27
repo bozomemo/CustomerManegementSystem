@@ -15,7 +15,7 @@ Müşteri Yönetim Sistemi, ASP.NET Core WebAPI kullanılarak geliştirilmiş bi
 
 ### Gereksinimler
 
-- .NET 6 SDK
+- .NET 8 SDK
 - SQL Server
 
 ### Kurulum
