@@ -73,7 +73,7 @@ Swagger aracılığıyla API dokümantasyonu mevcuttur. Uygulama çalıştığı
 
 ## Katkıda Bulunma
 
-Katkılar memnuniyetle karşılanır! Herhangi bir iyileştirme veya hata için bir pull request gönderin veya bir issue açın.
+Herhangi bir katkı veya güncellemeniz varsa sevinirim! İyileştirme veya hata için bir pull request gönderin veya bir issue açın.
 
 ## Lisans
 
@@ -81,4 +81,4 @@ Bu proje MIT Lisansı ile lisanslanmıştır.
 
 ---
 
-Daha fazla detay için [repo](https://github.com/bozomemo/CustomerManegementSystem) adresini ziyaret edin.
+Daha fazla detay için [Github](https://github.com/bozomemo/CustomerManegementSystem) adresini ziyaret edin.
